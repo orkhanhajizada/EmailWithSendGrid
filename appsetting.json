@@ -1,0 +1,10 @@
+{
+  "SendGrid": {
+    "ApiKey": "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",
+    "FromEmail": "h.orkhan1907@gmail.com",
+    "CompanyName": "Orkhan Hajizada",
+    "RedirectUrl": "code.edu.az",
+    "EventName": "DevOps Workshop",
+    "TemplateId": "d-be46c5fbab794c9b909d55228860b304"
+  }
+}
